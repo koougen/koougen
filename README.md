@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kyungmin%20Park&fontSize=90)
+
 <div align="center">
-
-
+  
+![my_life](https://user-images.githubusercontent.com/107606526/174227149-69148e66-0c42-4c5c-afa8-5926ef1e9ac0.JPG)
+  
 ---
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koougen&show_icons=true&theme=dark)
 </div>
 
