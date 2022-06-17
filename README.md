@@ -1,9 +1,9 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kyungmin%20Park&fontSize=90)
 
 
 
 ---
-<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koougen&show_icons=true&theme=dark)
 </div>
 
